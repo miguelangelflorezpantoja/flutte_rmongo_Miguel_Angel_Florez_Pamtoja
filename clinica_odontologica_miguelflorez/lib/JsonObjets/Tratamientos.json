@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "6233f5ff09074b9a545081d9"
+  },
+  "nombre": "ortodoncia",
+  "doctor": "Ricardo Gomez",
+  "observacion": "Tratamiento completo de ortodoncia al paciente"
+},{
+  "_id": {
+    "$oid": "6233f933543a50e5ecf6a435"
+  },
+  "nombre": "ortodoncia",
+  "doctor": "Agustin Mora",
+  "observacion": "Tratamiento completo de ortodoncia al paciente"
+},{
+  "_id": {
+    "$oid": "6233f933543a50e5ecf6a436"
+  },
+  "nombre": "peridoncista",
+  "doctor": "Sofia Teran",
+  "observacion": "Tratamiento completo de desinflamacion bucal al paciente"
+}]

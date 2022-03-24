@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "6233f29e09074b9a545081d3"
+  },
+  "fecha": "05/05/2022",
+  "hora": "3:00",
+  "nombre": "Ricardo",
+  "apellido": "Gomes",
+  "especialidad": "Ortodoncista"
+},{
+  "_id": {
+    "$oid": "6233f6ca543a50e5ecf6a410"
+  },
+  "fecha": "06/06/2022",
+  "hora": "3:00",
+  "nombre": "Agustin",
+  "apellido": "Mora",
+  "especialidad": "Peridoncista"
+},{
+  "_id": {
+    "$oid": "6233f6ca543a50e5ecf6a411"
+  },
+  "fecha": "07/07/2022",
+  "hora": "4:00",
+  "nombre": "Sofia",
+  "apellido": "Teran",
+  "especialidad": "Ortodoncista"
+}]

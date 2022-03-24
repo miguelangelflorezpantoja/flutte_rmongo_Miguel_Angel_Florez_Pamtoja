@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "6233f37009074b9a545081d4"
+  },
+  "nombre": "Ricardo",
+  "apellido": "Gomez",
+  "edad": "55",
+  "genero": "M",
+  "especialidad": "ortodoncista"
+},{
+  "_id": {
+    "$oid": "6233f75b543a50e5ecf6a419"
+  },
+  "nombre": "Agustin",
+  "apellido": "Mora",
+  "edad": "44",
+  "genero": "M",
+  "especialidad": "ortodoncista"
+},{
+  "_id": {
+    "$oid": "6233f75b543a50e5ecf6a41a"
+  },
+  "nombre": "Sofia",
+  "apellido": "Teran",
+  "edad": "60",
+  "genero": "F",
+  "especialidad": "peridoncista"
+}]

@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "6233f58209074b9a545081d8"
+  },
+  "nombre": "odontologia",
+  "doctor": "Ricardo Gomez",
+  "jornada": "diurna"
+},{
+  "_id": {
+    "$oid": "6233f8b6543a50e5ecf6a430"
+  },
+  "nombre": "odontologia",
+  "doctor": "Agustin Mora",
+  "jornada": "tarde"
+},{
+  "_id": {
+    "$oid": "6233f8b6543a50e5ecf6a431"
+  },
+  "nombre": "peridoncista",
+  "doctor": "Sofia Teran",
+  "jornada": "diurna"
+}]

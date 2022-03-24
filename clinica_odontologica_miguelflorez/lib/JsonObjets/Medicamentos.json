@@ -1,0 +1,22 @@
+[{
+  "_id": {
+    "$oid": "6233f3e409074b9a545081d5"
+  },
+  "nombre": "acetaminofen",
+  "formato": "pastilla",
+  "inventario": "50"
+},{
+  "_id": {
+    "$oid": "6233f7a7543a50e5ecf6a41f"
+  },
+  "nombre": "paracetamol",
+  "formato": "pastilla",
+  "inventario": "20"
+},{
+  "_id": {
+    "$oid": "6233f7a7543a50e5ecf6a420"
+  },
+  "nombre": "dolex",
+  "formato": "pastilla",
+  "inventario": "120"
+}]

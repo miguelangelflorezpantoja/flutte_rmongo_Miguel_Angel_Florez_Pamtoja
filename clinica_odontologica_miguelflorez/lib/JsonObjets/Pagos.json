@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "6233f4d109074b9a545081d7"
+  },
+  "nombre": "elisa",
+  "apellido": "ruano",
+  "fecha": "05/06/2022",
+  "metodo": "efectivo"
+},{
+  "_id": {
+    "$oid": "6233f857543a50e5ecf6a42a"
+  },
+  "nombre": "roberto",
+  "apellido": "duran",
+  "fecha": "11/11/2022",
+  "metodo": "tarjeta"
+},{
+  "_id": {
+    "$oid": "6233f857543a50e5ecf6a42b"
+  },
+  "nombre": "elisa",
+  "apellido": "ruano",
+  "fecha": "05/16/2022",
+  "metodo": "efectivo"
+}]
